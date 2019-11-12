@@ -15,7 +15,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "Okw\\Monolog\\Handler": "src/"
+            "Okw\\Monolog\\Handler\\": "src/"
         }
-    },
+    }
 }
